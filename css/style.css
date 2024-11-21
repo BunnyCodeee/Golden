@@ -1,0 +1,25 @@
+:root {
+    --yellow: #fed136;
+    --title: #222222;
+    --text: #777777;
+}
+
+.logo{
+    font-family: "Bilbo Swash Caps", serif;
+    font-size: 36px;
+    color: var(--yellow);
+    line-height: 41px;
+    letter-spacing: 1,3px;
+    padding-left: 237px;
+    padding-right: 291px;
+    margin-top: 38px;
+}
+
+.navigation{
+    display: flex;
+    position: absolute;
+    left: 690px;
+    right: 230px;
+    top: 55px;
+    
+}
